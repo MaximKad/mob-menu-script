@@ -4,7 +4,7 @@
 <meta charset="utf-8">
 <title>Тестирование</title>
 <!--jQuery-->
-<script type='text/javascript' src='//ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js?ver=4.8.4'></script>
+<script src='/js/jquery.js'></script>
 <!--Мобильное меню-->
 <script>
 $(document).ready(function(){
@@ -86,6 +86,8 @@ ul.menu-navigation li a:active{
 	<li><a href="#">Пункт 1</a></li>
 	<li><a href="#">Пункт 2</a></li>
 	<li><a href="#">Пункт 3</a></li>
+	<li><a href="#">Пункт 4</a></li>
+	<li><a href="#">Пункт 5</a></li>
 </ul> 
 </div>
 </div>
